@@ -1,0 +1,10 @@
+{
+    "users": {
+        "fajar": {
+            "password": "123",
+            "role": "supervisor",
+            "nama": "fajar"
+        }
+        }
+    
+}
